@@ -1,5 +1,6 @@
 # Storytron 2 Documentation
 Storytron 2 is used to create interactive storyworlds. Interactive storyworlds are made up of storylets.
+
 A individual storylet contains of the following items:
 * Title
 * Text
